@@ -1,0 +1,5 @@
+*.swp
+
+/build
+/wrapper.cpp
+/wrapper.*.so
